@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="stdlib" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/IntroCS/11hello" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/12types" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/13flow" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/14array" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/15inout" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/16pagerank" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/21function" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/22library" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/23recursion" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/24percolation" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/31datatype" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/32class" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/33design" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/34nbody" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/41analysis" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/42sort" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/43stack" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/44st" />
+          <root url="file://$USER_HOME$/Downloads/IntroCS/45graph" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

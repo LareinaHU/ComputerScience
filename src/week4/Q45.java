@@ -1,0 +1,15 @@
+package week4;
+
+public class Q45
+{
+    public static void main(String[] args)
+    {
+//        while (!StdIn.isEmpty())
+//        {
+//            int x = StdIn.readInt();
+//            if (!StdIn.isEmpty()) x += StdIn.readInt();
+//            StdOut.print("x"+ x + " ");
+//        }
+//        StdOut.println();
+    }
+}

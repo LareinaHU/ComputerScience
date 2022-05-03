@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0949a170-e0f7-40c5-b1f3-64761b20e940" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lQyKSWQofoHOIcx9qjdt2XZ30y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.FrequencyCounter">
+    <configuration name="FrequencyCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.FrequencyCounter" />
+      <module name="SecondComputerScinece" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week1.Insertion" />
+      <module name="SecondComputerScinece" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LCP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week1.LCP" />
+      <module name="SecondComputerScinece" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week1.MergeSort" />
+      <module name="SecondComputerScinece" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrawStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week2.StrawStack" />
+      <module name="SecondComputerScinece" />
+      <option name="PROGRAM_PARAMETERS" value="20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FrequencyCounter" />
+        <item itemvalue="Application.StrawStack" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.LCP" />
+        <item itemvalue="Application.Insertion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0949a170-e0f7-40c5-b1f3-64761b20e940" name="Default Changelist" comment="" />
+      <created>1607543545142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607543545142</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="208" key="#StrawStack" timestamp="1609195217093">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="520" y="208" key="#StrawStack/0.25.1680.1025@0.25.1680.1025" timestamp="1609195217093" />
+    <state x="565" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607544165600">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="565" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1607544165600" />
+    <state x="653" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1608166567643">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1608166567643" />
+    <state x="653" y="249" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1607667469295" />
+    <state x="577" y="327" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1609193296828">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="577" y="327" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1609193296828" />
+    <state x="678" y="230" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1607544720973">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="678" y="230" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1607544720973" />
+    <state x="578" y="291" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1608167132498">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="291" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1608167132498" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1609996361101">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607907966620" />
+    <state width="1638" height="314" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1608106826154" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1609996361101" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1609996361101">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607907966618" />
+    <state width="1638" height="314" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1608106826152" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1609996361101" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1609996361100">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607907966617" />
+    <state width="1638" height="314" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1608106826152" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1609996361100" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1609996361101">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="314" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607907966619" />
+    <state width="1638" height="314" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1608106826153" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1609996361101" />
+    <state width="1638" height="341" key="GridCell.Tab.1.bottom" timestamp="1609996361090">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1607558652020" />
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1607906386684" />
+    <state width="1638" height="341" key="GridCell.Tab.1.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1609996361090" />
+    <state width="1638" height="341" key="GridCell.Tab.1.center" timestamp="1609996361090">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1607558652018" />
+    <state width="1638" height="345" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1607906386683" />
+    <state width="1638" height="341" key="GridCell.Tab.1.center/0.25.1680.1025@0.25.1680.1025" timestamp="1609996361090" />
+    <state width="1638" height="341" key="GridCell.Tab.1.left" timestamp="1609996361090">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1607558652017" />
+    <state width="1638" height="345" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1607906386682" />
+    <state width="1638" height="341" key="GridCell.Tab.1.left/0.25.1680.1025@0.25.1680.1025" timestamp="1609996361090" />
+    <state width="1638" height="341" key="GridCell.Tab.1.right" timestamp="1609996361090">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1607558652019" />
+    <state width="1638" height="345" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1607906386683" />
+    <state width="1638" height="341" key="GridCell.Tab.1.right/0.25.1680.1025@0.25.1680.1025" timestamp="1609996361090" />
+    <state x="328" y="129" key="SettingsEditor" timestamp="1607671401895">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="328" y="108" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1607544723237" />
+    <state x="328" y="129" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1607671401895" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1607899957724">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1607899957724" />
+  </component>
+</project>
